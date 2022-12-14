@@ -1,3 +1,3 @@
 ### Datasets
 
-This repo will house datasets for FitSNAP training.
+This repo houses datasets for FitSNAP training.
