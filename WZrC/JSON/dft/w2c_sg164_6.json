@@ -1,0 +1,90 @@
+header
+{
+  "Dataset": {
+    "AtomTypeStyle": "chemicalsymbol",
+    "Data": [
+      {
+        "AtomTypes": [
+          "W",
+          "W",
+          "C"
+        ],
+        "Energy": -39.17086698,
+        "Forces": [
+          [
+            0.0,
+            -0.0,
+            -1e-06
+          ],
+          [
+            -0.0,
+            0.0,
+            1e-06
+          ],
+          [
+            -0.0,
+            -0.0,
+            0.0
+          ]
+        ],
+        "Lattice": [
+          [
+            3.070045233,
+            0.0,
+            0.0
+          ],
+          [
+            -1.535022616,
+            2.658737162,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            4.678428173
+          ]
+        ],
+        "NumAtoms": 3,
+        "Positions": [
+          [
+            1.53502,
+            0.88625,
+            3.49133
+          ],
+          [
+            -0.0,
+            1.77249,
+            1.1871
+          ],
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "Stress": [
+          [
+            -37.52394,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -37.52394,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -24.37823
+          ]
+        ]
+      }
+    ],
+    "EnergyStyle": "electronvolt",
+    "ForcesStyle": "electronvoltperangstrom",
+    "LatticeStyle": "angstrom",
+    "PositionsStyle": "angstrom",
+    "StressStyle": "kB"
+  }
+}
