@@ -1,0 +1,34 @@
+|                                                                 |           ncount |           mae |          rmse |       rsq |
+|:----------------------------------------------------------------|-----------------:|--------------:|--------------:|----------:|
+| ('*ALL', 'Unweighted', 'Training', 'Energy')                    |   9313           |    0.434495   |    1.2966     |  0.88112  |
+| ('*ALL', 'Unweighted', 'Training', 'Force')                     |      4.13903e+06 |    1.01542    |    2.75009    | -0.482548 |
+| ('*ALL', 'weighted', 'Training', 'Energy')                      |   9313           |  412.744      | 1538.35       |  0.999611 |
+| ('*ALL', 'weighted', 'Training', 'Force')                       |      4.13903e+06 |   23.0511     |   63.7325     |  0.142336 |
+| ('active', 'Unweighted', 'Training', 'Energy')                  |    192           |    0.88269    |    1.50099    | -3.03244  |
+| ('active', 'Unweighted', 'Training', 'Force')                   | 108378           |    3.54884    |   11.2728     | -2.45439  |
+| ('active', 'weighted', 'Training', 'Energy')                    |    192           |    9.37393    |   15.9401     | -3.03244  |
+| ('active', 'weighted', 'Training', 'Force')                     | 108378           |    0.156531   |    0.515589   | -2.66442  |
+| ('aimd_300K', 'Unweighted', 'Training', 'Energy')               |   2431           |    0.115681   |    0.163737   |  0.756637 |
+| ('aimd_300K', 'Unweighted', 'Training', 'Force')                |      1.23908e+06 |    0.532097   |    1.11389    | -1.81536  |
+| ('aimd_300K', 'weighted', 'Training', 'Energy')                 |   2431           |    0.155736   |    0.220433   |  0.756637 |
+| ('aimd_300K', 'weighted', 'Training', 'Force')                  |      1.23908e+06 |    0.00241108 |    0.00530745 | -1.43537  |
+| ('aimd_high_T', 'Unweighted', 'Training', 'Energy')             |   3844           |    0.415008   |    1.39533    | -0.440616 |
+| ('aimd_high_T', 'Unweighted', 'Training', 'Force')              |      2.52261e+06 |    1.027      |    1.90502    |  0.219258 |
+| ('aimd_high_T', 'weighted', 'Training', 'Energy')               |   3844           |    1.2552     |    4.22019    | -0.440616 |
+| ('aimd_high_T', 'weighted', 'Training', 'Force')                |      2.52261e+06 |   37.2057     |   79.5075     |  0.161141 |
+| ('dft', 'Unweighted', 'Training', 'Energy')                     |    850           |    0.0431126  |    0.0818169  |  0.999918 |
+| ('dft', 'Unweighted', 'Training', 'Force')                      |  31599           |    0.0380415  |    0.235877   |  0.43309  |
+| ('dft', 'weighted', 'Training', 'Energy')                       |    850           | 1071.7        | 2033.82       |  0.999918 |
+| ('dft', 'weighted', 'Training', 'Force')                        |  31599           |    0.0116078  |    0.0936048  | -0.634547 |
+| ('liquid', 'Unweighted', 'Training', 'Energy')                  |    300           |    0.267827   |    0.285295   |  0.576999 |
+| ('liquid', 'Unweighted', 'Training', 'Force')                   | 172800           |    2.4232     |    3.37951    | -1.22486  |
+| ('liquid', 'weighted', 'Training', 'Energy')                    |    300           |    4.24705    |    4.52405    |  0.576999 |
+| ('liquid', 'weighted', 'Training', 'Force')                     | 172800           |    3.20959    |    4.47624    | -1.22486  |
+| ('surfaces_and_interfaces', 'Unweighted', 'Training', 'Energy') |     54           |    0.0894711  |    0.126127   |  0.903329 |
+| ('surfaces_and_interfaces', 'Unweighted', 'Training', 'Force')  |   8808           |    0.295677   |    0.75345    | -0.20274  |
+| ('surfaces_and_interfaces', 'weighted', 'Training', 'Energy')   |     54           |    3.8104     |    5.3715     |  0.903329 |
+| ('surfaces_and_interfaces', 'weighted', 'Training', 'Force')    |   8808           |  111.086      |  312.843      | -0.459107 |
+| ('uspex', 'Unweighted', 'Training', 'Energy')                   |   1642           |    1.14412    |    2.1576     |  0.830596 |
+| ('uspex', 'Unweighted', 'Training', 'Force')                    |  55761           |    2.61268    |    9.33461    | -0.226458 |
+| ('uspex', 'weighted', 'Training', 'Energy')                     |   1642           | 1781.03       | 3358.72       |  0.830596 |
+| ('uspex', 'weighted', 'Training', 'Force')                      |  55761           |    0.00568329 |    0.0241952  | -0.171657 |
